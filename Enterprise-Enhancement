@@ -4,6 +4,5 @@ Implement handler in the api and have a mediator
 Use asyn to increase performance and responsivness of the application
 Implement authorization/authentication
 
-refactoring:
-use automapper
-create abstract readonly repository to avoid exposing CreateContext
+
+
